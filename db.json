@@ -3,146 +3,192 @@
     {
       "id": 1,
       "name": "ibrahim mohamed",
-      "email": "ibrahim@mail.com",
+      "email": "ibrahimmohamed@gmail.com",
       "phone": "01284954021",
-      "password": "123456"
+      "password": "12345"
     },
     {
       "name": "ibrahim mohamed",
-      "email": "ibrahimfe2o0o@gmail.com",
       "phone": "01284954021",
-      "password": "12345",
+      "email": "ibrahimmohamed1@gmail.com",
+      "password": "tests",
       "id": 2
-    }
-  ],
-  "products": [
-    {
-      "id": 1,
-      "title": "قلم تحبير سن فيبر 0.7مم اسود 166799",
-      "price": 44,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/0/0/002166799_2.jpg"
     },
     {
-      "id": 2,
-      "title": "طقم كولدج ايزوجراف 0.2/0.3/0.5 رقم SO699370",
-      "price": 832,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/0/0/001699370_4.jpg"
-    },
-    {
-      "id": 3,
-      "title": "رول بلاستيك قطر9سم بحزام63-105سم رقمDT13",
-      "price": 349,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/2/6/26017000013_1.jpg"
-    },
-    {
-      "id": 4,
-      "title": "رول فارغ بلاستيك وسط 6*45*80سم رقمDT-01 YMT-1",
-      "price": 120,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/2/6/26017000001_7.jpg"
-    },
-    {
-      "id": 5,
-      "title": "إسطمبة فرش ati اسكيل 1-50 رقم TP-301A",
-      "price": 180,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/3/0/30100203010_6.jpg"
-    },
-    {
-      "id": 6,
-      "title": "مسطرة متوازيات بحرية 24 بوصة KB600",
-      "price": 761,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/2/2/22004000024_6.jpg"
-    },
-    {
-      "id": 7,
-      "title": "برجل مفرد بساقية 1/2 م +علبة سنون S&A 34811Q-9A",
-      "price": 295,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/0/3/0390000348119_2.jpg"
-    },
-    {
-      "id": 8,
-      "title": "مثلث أرسطو 32.5 سم بماسك رقم K109",
-      "price": 150,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/3/0/30510160109_7.jpg"
-    },
-    {
-      "id": 9,
-      "title": "طقم هندسى 4 قطعة رقم KY 101 S&A",
-      "price": 36,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/3/0/30510150101_7.jpg"
-    },
-    {
-      "id": 10,
-      "title": "طقم تحبير روترينج أيزوجراف 8/4/2 JUNIOR رقم SO699340",
-      "price": 756,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/0/0/001699340_15.jpg"
-    },
-    {
-      "id": 11,
-      "title": "رول بلاستيك فارغ الوان44 سم",
-      "price": 64,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/0/9/0919806000044_12.jpg"
-    },
-    {
-      "id": 12,
-      "title": "مسطرة 120 سم بلاستيكR T512A - KT1200R-KT5120RK",
-      "price": 875,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/0/0/001702120.jpg"
-    },
-    {
-      "id": 13,
-      "title": "مسطرة حرفTبلاستيك 100سم رقم S&A T511-KT1000 A",
-      "price": 388,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/3/0/30010302100.jpg"
-    },
-    {
-      "id": 14,
-      "title": "مسطرة 80 سم بلاستيك R T580A - KT800R-KT800RK",
-      "price": 510,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/0/0/001702080.jpg"
-    },
-    {
-      "id": 15,
-      "title": "فرنيش كيرف 3 قطعة ati رقم PC-2100",
-      "price": 135,
-      "img": "https://www.samirandaly.com/media/catalog/product/cache/9a16983b747c72d87d73d7e4f1bd65fd/3/0/30101321000_3.jpg"
-    }
-  ],
-  "card": [
-    {
-      "user_id": 1,
-      "product_id": 12,
-      "count": 1,
+      "name": "ibrahim mohamed",
+      "phone": "01284954021",
+      "email": "test@mail.com",
+      "password": "tests",
       "id": 3
     },
     {
-      "user_id": 1,
-      "product_id": 1,
-      "count": 1,
+      "name": "moka",
+      "phone": "01284954021",
+      "email": "moka@mail.com",
+      "password": "123456",
       "id": 4
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "phone_number": "01234567891",
+      "name": "د. محمد علي",
+      "specialization": "الطب الباطني",
+      "clinic_address": "شارع النيل، القاهرة",
+      "consultation_fee": 200
     },
     {
-      "user_id": 2,
-      "product_id": 15,
-      "count": 1,
-      "id": 5
+      "id": 2,
+      "phone_number": "01234567892",
+      "name": "د. فاطمة زينب",
+      "specialization": "طب الأطفال",
+      "clinic_address": "شارع الثورة، الجيزة",
+      "consultation_fee": 150
     },
     {
-      "user_id": 2,
-      "product_id": 2,
-      "count": 1,
-      "id": 6
+      "id": 3,
+      "phone_number": "01234567893",
+      "name": "د. أحمد خالد",
+      "specialization": "جراحة القلب",
+      "clinic_address": "شارع الهرم، الجيزة",
+      "consultation_fee": 300
     },
     {
-      "user_id": 2,
-      "product_id": 11,
-      "count": 1,
-      "id": 7
+      "id": 4,
+      "phone_number": "01234567894",
+      "name": "د. سارة يوسف",
+      "specialization": "أمراض النساء والتوليد",
+      "clinic_address": "ميدان التحرير، القاهرة",
+      "consultation_fee": 250
     },
     {
-      "user_id": 2,
-      "product_id": 14,
-      "count": 1,
-      "id": 8
+      "id": 5,
+      "phone_number": "01234567895",
+      "name": "د. علي حسن",
+      "specialization": "طب العيون",
+      "clinic_address": "شارع فيصل، الجيزة",
+      "consultation_fee": 180
+    },
+    {
+      "id": 6,
+      "phone_number": "01234567896",
+      "name": "د. نجلاء عبد الله",
+      "specialization": "الطب العائلي",
+      "clinic_address": "شارع الجمهورية، الإسكندرية",
+      "consultation_fee": 200
+    },
+    {
+      "id": 7,
+      "phone_number": "01234567897",
+      "name": "د. هشام سعد",
+      "specialization": "أمراض الجلدية",
+      "clinic_address": "شارع المعادي، القاهرة",
+      "consultation_fee": 220
+    },
+    {
+      "id": 8,
+      "phone_number": "01234567898",
+      "name": "د. ليلى عادل",
+      "specialization": "طب الأسنان",
+      "clinic_address": "شارع النصر، بورسعيد",
+      "consultation_fee": 170
+    },
+    {
+      "id": 9,
+      "phone_number": "01234567899",
+      "name": "د. سامي نبيل",
+      "specialization": "الطب النفسي",
+      "clinic_address": "شارع الهرم، القاهرة",
+      "consultation_fee": 300
+    },
+    {
+      "id": 10,
+      "phone_number": "01234567900",
+      "name": "د. رنا وائل",
+      "specialization": "أمراض الروماتيزم",
+      "clinic_address": "شارع المطار، القاهرة",
+      "consultation_fee": 250
+    },
+    {
+      "id": 11,
+      "phone_number": "01234567901",
+      "name": "د. كريم مصطفى",
+      "specialization": "الجراحة العامة",
+      "clinic_address": "شارع أسوان، الجيزة",
+      "consultation_fee": 320
+    },
+    {
+      "id": 12,
+      "phone_number": "01234567902",
+      "name": "د. شيماء عبد الرحمن",
+      "specialization": "أمراض باطنية",
+      "clinic_address": "شارع التحرير، المنصورة",
+      "consultation_fee": 210
+    },
+    {
+      "id": 13,
+      "phone_number": "01234567903",
+      "name": "د. يوسف فؤاد",
+      "specialization": "الأشعة",
+      "clinic_address": "شارع قصر العيني، القاهرة",
+      "consultation_fee": 150
+    },
+    {
+      "id": 14,
+      "phone_number": "01234567904",
+      "name": "د. مريم عادل",
+      "specialization": "التخدير",
+      "clinic_address": "شارع الأهرام، الجيزة",
+      "consultation_fee": 300
+    },
+    {
+      "id": 15,
+      "phone_number": "01234567905",
+      "name": "د. نبيل عبد الرحمن",
+      "specialization": "جراحة المخ والأعصاب",
+      "clinic_address": "شارع مريوطية، الجيزة",
+      "consultation_fee": 400
+    },
+    {
+      "id": 16,
+      "phone_number": "01234567906",
+      "name": "د. سليم أحمد",
+      "specialization": "جراحة المسالك البولية",
+      "clinic_address": "شارع 26 يوليو، القاهرة",
+      "consultation_fee": 250
+    },
+    {
+      "id": 17,
+      "phone_number": "01234567907",
+      "name": "د. أمينة حسن",
+      "specialization": "أمراض الجهاز التنفسي",
+      "clinic_address": "ميدان التحرير، القاهرة",
+      "consultation_fee": 200
+    },
+    {
+      "id": 18,
+      "phone_number": "01234567908",
+      "name": "د. عادل جابر",
+      "specialization": "الأورام",
+      "clinic_address": "شارع بورسعيد، الإسكندرية",
+      "consultation_fee": 350
+    },
+    {
+      "id": 19,
+      "phone_number": "01234567909",
+      "name": "د. نادية سمير",
+      "specialization": "الطب الشرعي",
+      "clinic_address": "ميدان هيجاز، القاهرة",
+      "consultation_fee": 300
+    },
+    {
+      "id": 20,
+      "phone_number": "01234567910",
+      "name": "د. سعيد جمال",
+      "specialization": "علم الأدوية",
+      "clinic_address": "شارع الثورة، الإسكندرية",
+      "consultation_fee": 180
     }
   ]
 }
